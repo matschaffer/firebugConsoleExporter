@@ -1,0 +1,4 @@
+content foo             chrome/content/
+skin    foo classic/1.0 chrome/skin/
+
+overlay chrome://firebug/content/firebugOverlay.xul chrome://foo/content/foo.xul
